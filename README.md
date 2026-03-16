@@ -13,23 +13,25 @@ This repository is used for practicing DevOps tools and workflows.
 
 
 Day 1 :
-                 Docker Practice (Day 1)
-                        │
-        ┌───────────────┼───────────────┐
-        │                               │
- Local Machine (WSL)             Docker Image Pull
-                                        │
-                                        ▼
-                                Docker Container
-                                        │
-                                        ▼
-                                NGINX Web Server
-                                        │
-                                        ▼
-                                   Port Mapping
-                                        │
-                                        ▼
-                                 http://localhost
+  Local Machine (WSL Ubuntu)
+          │
+          ▼
+Docker Practice (Day 1)
+          │
+          ▼
+Pull NGINX Docker Image
+          │
+          ▼
+Run Container
+          │
+          ▼
+NGINX Web Server Running
+          │
+          ▼
+Port Mapping (Host → Container)
+          │
+          ▼
+Access → http://localhost
 Day 2 :
 
                      Terraform (IaC)
