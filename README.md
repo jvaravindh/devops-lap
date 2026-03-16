@@ -13,7 +13,7 @@ This repository is used for practicing DevOps tools and workflows.
 
 
 Day 1 :
-                Local Machine (WSL Ubuntu)
+                         Local Machine (WSL Ubuntu)
                         │
                         │
                 Docker Practice (Day 1)
@@ -27,7 +27,6 @@ Day 1 :
                          Port Mapping
                                │
                        http://localhost
-
 
 Day 2 :
 
